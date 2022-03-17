@@ -4,10 +4,10 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import csv
 import time
-import pandas as pd
-from datetime import datetime as dt
+# import pandas as pd
+# from datetime import datetime as dt
 import json
-import mysql.connector
+# import mysql.connector
 
 
 # df=pd.read_csv("unscrape_amazon.csv")
